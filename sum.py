@@ -1,4 +1,5 @@
 a=2
 b=3
-c=a+b
-print("sum = ",c)
+c=5
+c=a+b+c
+print("sum = ",d)
